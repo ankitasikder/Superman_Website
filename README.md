@@ -16,7 +16,7 @@
 
 <div align="justified">
   
-This is a web page of DC Comic's super hero Batman. He is one of the most famous superheroes in marvel, dc and other comics. Batman or Bruce Wayne, Ceo of Wayne Industries, savior of Gotham has worldwide fans of his wealth, thaughts of justice etc. This webpage is for dc and Batman fans. Everyone likes superheroes and their stories, origines, powers, thaughts. So, I have assembled many interesting facts, supercool images and also movie links of Batman Trilogy here. The fans and newcomers of dc world can easily know everything about the great super hero Batman. Here I have added slider of 10 images for getting a very nice view on this character.
+This is a web page of DC Comic's super hero Superman. He is one of the most famous superheroes in marvel, dc and other comics.Superman, born Kal-El and legally named Clark Kent, is the last son of Krypton, sent as the dying planet's last hope to Earth, where he grew to become its protector. This webpage is for dc and Supebatman fans. Everyone likes superheroes and their stories, origines, powers, thaughts. So, I have assembled many interesting facts, supercool images and also movie links of  here. The fans and newcomers of dc world can easily know everything about the great super hero Superman. Here I have added slider of 10 images for getting a very nice view on this character.
 
 </div>
 
@@ -26,7 +26,7 @@ This is a web page of DC Comic's super hero Batman. He is one of the most famous
 
 <div align="justified">
 
-I have made this webpage for the fans of Batman and also those who want to know about this world famous sperhero. Users can explore many facts, images, movie links using this web page.
+I have made this webpage for the fans of Superman and also those who want to know about this world famous sperhero. Users can explore many facts, images, movie links using this web page.
 
 </div>
 
